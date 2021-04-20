@@ -1,14 +1,14 @@
 
 <div align="center">
-<h1 title="hehehe"> Hey 👋, I'm Zamran!</h1>
+<h1 title="hehehe"> Hey 👋, I'm Deep Awasthi!</h1>
 </div>
-<a href="https://www.linkedin.com/in/zamranxd/">
+<a href="https://www.linkedin.com/in/deep-awasthi/">
   <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/zamranxd/">
+<a href="https://www.instagram.com/_snorlax_op/">
   <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/ZamranxD">
+<a href="https://www.facebook.com/thedeepawasthi">
   <img align="left" alt="Zamran's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet" align="left">
@@ -20,7 +20,7 @@
 <br />
 <br />
 
-A **Software Engineering Student** 🚀 from Lahore, Pakistan.
+A **Software Engineering Student** 🚀 from India.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
