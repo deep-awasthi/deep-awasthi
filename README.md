@@ -26,13 +26,12 @@ A **Software Engineering Student** 🚀 from India.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working as a Sales Ecexutive at Ibex Pakistan.
-- 🌱 I’m currently exploring Python with a big interest in Web Scraping and Data Visualization. 
-- 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
-- 💼 I’m pursuing a Bachelor's degree in Computer Science.
+- 👨🏽‍💻 I’m currently student in NIT Jalandhar.
+- 🌱 I’m currently exploring Python with a big interest in Data Science. 
+- 🤔 My interests are Big Data, Data Science and Web Development.
+- 💼 I’m pursuing a Bachelor's degree in Mechanical Engineering.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [zamran.butt.1@gmail.com](mailto:zamran.butt.1@gmail.com).
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1QNMwfAfDOiS3PEZr5Y0zavdJrFCmqk0m/view?usp=sharing) to get more info.
+- 📫 Email me at [da.madskull@gmail.com](mailto:da.madskull@gmail.com).
 
 
 **Languages and Tools:**  
@@ -51,4 +50,4 @@ A **Software Engineering Student** 🚀 from India.
 
 <img src="https://github-readme-stats.vercel.app/api?username=ZamranxD&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Zamran's GitHub Stats">
 
-⭐️ From [ZamranxD](https://github.com/ZamranxD)
+⭐️ From [Deep Awasthi](https://github.com/mad-skull)
