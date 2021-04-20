@@ -11,7 +11,6 @@
 <a href="https://www.facebook.com/thedeepawasthi">
   <img align="left" alt="Zamran's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet" align="left">
 
 
 
@@ -20,7 +19,7 @@
 <br />
 <br />
 
-A **Software Engineering Student** 🚀 from India.
+A **Student** 🚀 from India.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
