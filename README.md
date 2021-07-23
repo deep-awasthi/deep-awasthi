@@ -50,4 +50,4 @@ A **Student** 🚀 from India.
 <code><img height="20" src="https://jupyter.readthedocs.io/en/latest/_static/jupyter.svg"></code>
 
 
-⭐️ From [Deep Awasthi](https://github.com/mad-skull)
+Made by [Deep Awasthi](https://github.com/mad-skull)
