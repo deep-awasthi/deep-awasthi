@@ -45,6 +45,7 @@ A **Student** 🚀 from India.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/41522403?s=200&v=4"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://jupyter.readthedocs.io/en/latest/_static/jupyter.svg"></code>
