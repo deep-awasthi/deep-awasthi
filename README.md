@@ -57,7 +57,5 @@ A **Student** 🚀 from India.
 Made by [Deep Awasthi](https://github.com/mad-skull)
 
 <br />
-
-## Top Languages
-<p><img align="left" src="https://github-readme-stats.mad-skull.vercel.app/api/top-langs/?username=mad-skull&layout=compact&hide=html&theme=react" alt="mad-skull" /></p> 
-
+## Contribution Graph
+<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=mad-skull&theme=github" alt="mad-skull" /></p> 
