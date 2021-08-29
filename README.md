@@ -21,7 +21,6 @@ A **Student** 🚀 from India.
 - 🤔 My interests are Big Data, Data Science and App Development.
 - 💼 I’m pursuing a Bachelor's degree in Mechanical Engineering.
 - 💬 Ask me about anything, I love to answer!
-- https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white 
 - 💻 Check my [website](https://thedeepawasthi.web.app/).
 - 📫 Email me at [da.madskull@gmail.com](mailto:da.madskull@gmail.com).
 
@@ -48,6 +47,6 @@ A **Student** 🚀 from India.
 <code><img height="20" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4"></code>
 
 
-
+[<img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/deep-awasthi)
 
 Made by [Deep Awasthi](https://github.com/mad-skull)
