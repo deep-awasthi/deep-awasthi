@@ -59,5 +59,5 @@ A **Student** 🚀 from India.
 Made by [Deep Awasthi](https://github.com/mad-skull)
 
 <br />
-## Contribution Graph
+
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=mad-skull&theme=github" alt="mad-skull" /></p> 
