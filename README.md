@@ -58,5 +58,6 @@ Made by [Deep Awasthi](https://github.com/mad-skull)
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?mad-skull={mad-skull}">
+## Top Languages
+<p><img align="left" src="https://github-readme-stats.mad-skull.vercel.app/api/top-langs/?username=mad-skull&layout=compact&hide=html&theme=react" alt="mad-skull" /></p> 
 
