@@ -2,15 +2,6 @@
 <div align="center">
 <h1 title="hehehe"> Hey 👋, I'm Deep Awasthi!</h1>
 </div>
-<a href="https://www.linkedin.com/in/deep-awasthi/">
-  <img align="left" alt="Deep's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/_snorlax_op/">
-  <img align="left" alt="Deep's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/thedeepawasthi">
-  <img align="left" alt="Deep's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 
 
 
@@ -26,10 +17,11 @@ A **Student** 🚀 from India.
 **About Me!**
 
 - 👨🏽‍💻 I’m currently student in NIT Jalandhar.
-- 🌱 I’m currently exploring Python with a big interest in Data Science. 
-- 🤔 My interests are Big Data, Data Science and Web Development.
+- 🌱 I’m currently exploring Python and Android. 
+- 🤔 My interests are Big Data, Data Science and App Development.
 - 💼 I’m pursuing a Bachelor's degree in Mechanical Engineering.
 - 💬 Ask me about anything, I love to answer!
+- https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white 
 - 💻 Check my [website](https://thedeepawasthi.web.app/).
 - 📫 Email me at [da.madskull@gmail.com](mailto:da.madskull@gmail.com).
 
