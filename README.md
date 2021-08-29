@@ -58,5 +58,5 @@ Made by [Deep Awasthi](https://github.com/mad-skull)
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={mad-skull}">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?mad-skull={mad-skull}">
 
