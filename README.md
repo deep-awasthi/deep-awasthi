@@ -55,11 +55,7 @@ Made by [Deep Awasthi](https://github.com/mad-skull)
 
 <br />
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mad-skull&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-
-<br />
-
-<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=mad-skull&theme=github" alt="mad-skull" /></p> 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mad-skull" alt="mad-skull" /></p> 
 
 <br />
 
@@ -67,4 +63,6 @@ Made by [Deep Awasthi](https://github.com/mad-skull)
 
 <br />
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mad-skull" alt="mad-skull" /></p> 
+<br />
+
+<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=mad-skull&theme=github" alt="mad-skull" /></p> 
