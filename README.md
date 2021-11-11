@@ -17,11 +17,11 @@ A **Student** 🚀 from India.
 **About Me!**
 
 - 👨🏽‍💻 I’m currently student in NIT Jalandhar.
-- 🌱 I’m currently exploring Python and Android. 
-- 🤔 My interests are Big Data, Data Science and App Development.
+- 🌱 I’m currently exploring Python and Web Development. 
+- 🤔 My interests are Analytics, Data Science and App Development.
 - 💼 I’m pursuing a Bachelor's degree in Mechanical Engineering.
 - 💬 Ask me about anything, I love to answer!
-- 💻 Check my [website](https://thedeepawasthi.web.app/).
+- 💻 Check my [website](https://mad-skull.github.io/portfolio/).
 - 📫 Email me at [da.madskull@gmail.com](mailto:da.madskull@gmail.com).
 
 
