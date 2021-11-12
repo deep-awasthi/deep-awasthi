@@ -18,7 +18,7 @@ A **Student** 🚀 from India.
 
 - 👨🏽‍💻 I’m currently student in NIT Jalandhar.
 - 🌱 I’m currently exploring Python and Web Development. 
-- 🤔 My interests are Analytics, Data Science and App Development.
+- 🤔 My interests are Analytics, Data Science and React Development.
 - 💼 I’m pursuing a Bachelor's degree in Mechanical Engineering.
 - 💬 Ask me about anything, I love to answer!
 - 💻 Check my [website](https://mad-skull.github.io/portfolio/).
