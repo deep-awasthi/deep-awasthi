@@ -17,8 +17,9 @@ A **Student** 🚀 from India.
 **About Me!**
 
 - 👨🏽‍💻 I’m currently student in NIT Jalandhar.
-- 🌱 I’m currently exploring Python and Web Development. 
+- 🌱 Proficient in Python, Java and C++.
 - 🤔 My interests are Analytics, Data Science and React Development.
+- ☁️ New to DevOps.
 - 💼 I’m pursuing a Bachelor's degree in Mechanical Engineering.
 - 💬 Ask me about anything, I love to answer!
 - 💻 Check my [website](https://mad-skull.github.io/portfolio/).
