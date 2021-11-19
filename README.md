@@ -56,11 +56,6 @@ Made by [Deep Awasthi](https://github.com/mad-skull)
 
 <br />
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mad-skull" alt="mad-skull" /></p> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mad-skull" alt="mad-skull" /></p> 
 
-<br />
-
-<br />
 
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=mad-skull&theme=github" alt="mad-skull" /></p> 
