@@ -36,11 +36,8 @@ A **Student** 🚀 from India.
 
 **Technical Skills:**  
 
-### Front-End:
-<code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
-### Backend-End:
-<code><img height="20" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></code>
-<code><img height="20" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
+### Front-End: <code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
+### Backend-End: <code><img height="20" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></code> <code><img height="20" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
 ### Database:
 <code><img height="20" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B"></code>
