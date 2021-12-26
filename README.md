@@ -17,8 +17,8 @@ A **Student** 🚀 from India.
 **About Me!**
 
 - 👨🏽‍💻 I’m currently student in NIT Jalandhar.
-- 🌱 Proficient in Python, Java and C++.
-- 🤔 My interests are Analytics, Data Science and React Development.
+- 🌱 Proficient in Python and Java.
+- 🤔 My interests are Machine Learning and Android Development.
 - ☁️ New to DevOps.
 - 💼 I’m pursuing a Bachelor's degree in Mechanical Engineering.
 - 💬 Ask me about anything, I love to answer!
