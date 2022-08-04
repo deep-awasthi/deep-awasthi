@@ -20,7 +20,7 @@ A **Student** 🚀 from India.
 - 🌱 Proficient in Python and Java.
 - 🤔 My interests are Machine Learning and Android Development.
 - ☁️ New to DevOps.
-- 💼 I’m pursuing a Bachelor's degree in Mechanical Engineering.
+- 💼 Bachelor's degree in Mechanical Engineering from NIT Jalandhar.
 - 💬 Ask me about anything, I love to answer!
 - 💻 Check my [website](https://mad-skull.github.io/portfolio/).
 - 📫 Email me at [da.madskull@gmail.com](mailto:da.madskull@gmail.com).
@@ -29,16 +29,16 @@ A **Student** 🚀 from India.
 **Programming Languages:**  
 
 
-<code><img height="20" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></code>
-<code><img height="20" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></code>
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
 
 **Technical Skills:**  
 
 
-<code><img height="20" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
 <code><img height="20" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></code>
 <code><img height="20" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
