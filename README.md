@@ -10,7 +10,7 @@
 <br />
 <br />
 
-A **Student** 🚀 from India.
+A **Developer** 🚀 from India.
 
   <img src="https://miro.medium.com/max/2800/1*BU7f02LeQeELztqxa8eCmw.gif" align="right" alt="Coder GIF" width="480" height="300">
 
