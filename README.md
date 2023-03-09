@@ -16,9 +16,9 @@ A **Developer** 🚀 from India.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently student in NIT Jalandhar.
-- 🌱 Proficient in Python and Java.
-- 🤔 My interests are Machine Learning and Android Development.
+- 👨🏽‍💻 I’m a developer with experience :)
+- 🌱 Proficient in Javascript and Java.
+- 🤔 My interests are Machine Learning and Android Development, But I am working as Backend Developer :)
 - ☁️ New to DevOps.
 - 💼 Bachelor's degree in Mechanical Engineering from NIT Jalandhar.
 - 💬 Ask me about anything, I love to answer!
