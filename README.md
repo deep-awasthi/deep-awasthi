@@ -56,7 +56,7 @@ A **Developer** 🚀 from India.
 <br />
 
 
-| <a href="https://github.com/mad-skull/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mad-skull&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Deep's github stats" /></a> | <a href="https://github.com/mad-skull/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mad-skull&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/mad-skull/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mad-skull&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 
 Made by [Deep Awasthi](https://github.com/mad-skull)
