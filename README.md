@@ -58,12 +58,14 @@ A **Developer** 🚀 from India.
 <p align="center">
 **Most Used Languages:**  <br />
 | <a href="https://github.com/mad-skull/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mad-skull&layout=compact&theme=buefy&hide_border=true" /></a> | <br />
+</p>
 
-
+<p align="center">
 **Trophies:**   <br />
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/mad-skull/github-profile-trophy) <br/>
+</p>
 
-
+<p align="center">
 Made by [Deep Awasthi](https://github.com/mad-skull)
 
 [<img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/deep-awasthi)
