@@ -55,7 +55,7 @@ A **Developer** 🚀 from India.
 <br />
 <br />
 
-
+<p align="center">
 **Most Used Languages:**  
 | <a href="https://github.com/mad-skull/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mad-skull&layout=compact&theme=buefy&hide_border=true" /></a> |
 
@@ -70,3 +70,4 @@ Made by [Deep Awasthi](https://github.com/mad-skull)
 [<img height="20" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/deep_awasthi_)
 
 <br />
+</p>
