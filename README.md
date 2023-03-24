@@ -56,8 +56,11 @@ A **Developer** 🚀 from India.
 <br />
 
 
+**Most Used Languages:**  
 | <a href="https://github.com/mad-skull/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mad-skull&layout=compact&theme=buefy&hide_border=true" /></a> |
 
+
+**Trophies:**  
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/mad-skull/github-profile-trophy)
 
 
