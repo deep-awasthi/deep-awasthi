@@ -56,7 +56,7 @@ A **Developer** 🚀 from India.
 <br />
 
 <p align="center">
-**Most Used Languages:**  <br />
+Most Used Languages:  <br />
 | <a href="https://github.com/mad-skull/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mad-skull&layout=compact&theme=buefy&hide_border=true" /></a> | <br />
 </p>
 
