@@ -30,24 +30,21 @@ A **Developer** 🚀 from India.
 
 
 <code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></code>
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
 
 **Technical Skills:**  
 
 
-<code><img height="20" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"></code>
 <code><img height="20" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/MongoDB-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 
 **Tools:**  
 
 
-<code><img height="20" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></code>
