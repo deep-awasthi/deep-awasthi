@@ -17,12 +17,12 @@ A **Developer** 🚀 from India.
 **About Me!**
 
 - 👨🏽‍💻 I’m a developer with experience :)
-- 🌱 Proficient in Javascript and Java.
-- 🤔 My interests are Machine Learning and Android Development, But I am working as Backend Developer :)
-- ☁️ New to DevOps.
+- 🌱 Proficient in Java and JavaScript.
+- 🤔 My interests are Machine Learning and Backend Development :)
+- ☁️ New to ML.
 - 💼 Bachelor's degree in Mechanical Engineering from NIT Jalandhar.
 - 💬 Ask me about anything, I love to answer!
-- 💻 Check my [website](https://mad-skull.github.io/portfolio/).
+- 💻 Check my [website](https://deep-awasthi.github.io/portfolio/).
 - 📫 Email me at [da.madskull@gmail.com](mailto:da.madskull@gmail.com).
 
 
@@ -57,15 +57,15 @@ A **Developer** 🚀 from India.
 
 <p align="center">
 Most Used Languages:  <br />
-| <a href="https://github.com/mad-skull/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mad-skull&layout=compact&theme=buefy&hide_border=true" /></a> | <br />
+| <a href="https://github.com/mad-skull/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep-awasthi&layout=compact&theme=buefy&hide_border=true" /></a> | <br />
 </p>
 
 
 **Trophies:**   <br />
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/mad-skull/github-profile-trophy) <br/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/deep-awasthi/github-profile-trophy) <br/>
 
 
-Made by [Deep Awasthi](https://github.com/mad-skull)
+Made by [Deep Awasthi](https://github.com/deep-awasthi)
 
 [<img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/deep-awasthi)
 [<img height="20" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/deep_awasthi_)
