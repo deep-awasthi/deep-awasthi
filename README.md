@@ -39,7 +39,7 @@ A **Developer** 🚀 from India.
 <code><img height="20" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"></code>
 <code><img height="20" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/MongoDB-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 
 **Tools:**  
