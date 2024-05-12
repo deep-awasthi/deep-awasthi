@@ -30,7 +30,7 @@ A **Developer** 🚀 from India.
 
 
 <code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=swift&logoColor=darkgreen"></code>
+<code><img height="20" src="https://img.shields.io/badge/Swift-FFD43B?style=for-the-badge&logo=swift&logoColor=darkgreen"></code>
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
 
 **Technical Skills:**  
