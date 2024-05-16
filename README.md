@@ -57,7 +57,7 @@ A **Developer** 🚀 from India.
 
 <p align="center">
 Most Used Languages:  <br />
-| <a href="https://github.com/mad-skull/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep-awasthi&layout=compact&theme=buefy&hide_border=true" /></a> | <br />
+| <a href="https://github.com/deep-awasthi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep-awasthi&layout=compact&theme=buefy&hide_border=true" /></a> | <br />
 </p>
 
 
