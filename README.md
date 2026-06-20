@@ -8,6 +8,14 @@
 
 ---
 
+Backend engineer specialising in **distributed systems**, **event-driven microservices**, and **cloud-native architecture**. I build with Java, Spring Boot, Go, Apache Kafka, gRPC, and GCP — drawn to the hard problems: consistency under partition, latency at scale, and systems that stay up when everything else doesn't.
+
+I write long-form engineering guides on Medium — Java internals, Spring Boot, system design, distributed systems. The kind of reference you bookmark and return to, not skim once and forget.
+
+**Reach out** if you're building distributed backends, want to talk system design and architecture, looking for a collaborator on backend or open-source projects, or hiring engineers who care about how things work at depth.
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**
