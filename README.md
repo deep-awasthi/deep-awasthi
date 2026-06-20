@@ -40,20 +40,10 @@ I write long-form engineering guides on Medium — Java internals, Spring Boot, 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deep-awasthi&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep-awasthi&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deep-awasthi&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deep-awasthi&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep-awasthi&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
 </div>
 
 ---
