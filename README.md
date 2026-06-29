@@ -38,13 +38,6 @@ I write long-form engineering guides on Medium — Java internals, Spring Boot, 
 
 <img src="https://skillicons.dev/icons?i=gcp,aws,docker,kubernetes,githubactions&theme=dark"/>
 
----
-
-## 📊 Most Used Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep-awasthi&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
-</div>
 
 ---
 
